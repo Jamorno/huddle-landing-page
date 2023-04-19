@@ -4,7 +4,7 @@ export default function Content() {
     return (
         <div className="text-white px-10 lg:grid lg:items-center xl:px-20 xl:grid grid-cols-2 xl:items-center">
             <div className="pt-14 xl:pt-16">
-                <Image src="/illustration-mockups.svg" width="900" height="400" />
+                <Image src="/illustration-mockups.svg" width="900" height="400" alt="display-image" />
             </div>
 
             <div className="space-y-5 pt-12 lg:px-8 xl:px-14 xl:space-y-6">
