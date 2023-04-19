@@ -10,7 +10,7 @@ export default function Home() {
         <title>Huggle landing page</title>
       </Head>
     
-      <main>
+      <div>
         {/* Heading */}
         <Heading />
 
@@ -19,7 +19,7 @@ export default function Home() {
 
         {/* Fotter */}
         <Fotter />
-      </main>
+      </div>
     </>
 
   )
