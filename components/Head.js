@@ -1,5 +1,5 @@
 
-export default function Head() {
+export default function Heading() {
     return (
         <div className="pt-10 pl-10 xl:pl-20">
             <div className="">
