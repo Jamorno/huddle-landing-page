@@ -4,7 +4,7 @@ import Fotter from '@/components/Fotter'
 
 export default function Home() {
   return (
-    <div>
+    <>
       <main>
         {/* Heading */}
         <Head />
@@ -15,7 +15,7 @@ export default function Home() {
         {/* Fotter */}
         <Fotter />
       </main>
-    </div>
+    </>
 
   )
 }
